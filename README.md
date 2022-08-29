@@ -15,7 +15,7 @@ of automating the GreeNe laser alignment process.
 **createMatrix.py**   ==   Save slope matrix given channel data. This channel data is produced by the 'calibrate FV/DSOTR' in 'beamAlign.py'.
 		       This is sensitive to the order in which it is saved. It also expects the channel data to be stored in a folder called 'calibrationData/'.
 
-**expert_motor.ui**   ==   Simple motor control panel which is accessible through the main GUI
+**expert_motor.ui**   ==   Simple motor control panel which is accessible through the main GUI.
 
 **inline_motor.ui**   ==   The motor controls one sees when first launching the GUI.
 
