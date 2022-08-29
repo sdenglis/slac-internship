@@ -1,8 +1,8 @@
 # slac-internship
 Particle physics internship conducting Plasma Wakefield Acceleration (PWFA) research at SLAC, based near Stanford.
 
-README.TXT
-##################################################
+
+
 This folder contains all relevant files from 
 Sam English & Spencer Gessner's exploration 
 of automating the GreeNe laser alignment process.
