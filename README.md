@@ -5,7 +5,7 @@ Particle physics internship conducting Plasma Wakefield Acceleration (PWFA) rese
 ##################################################
 
 This folder contains all relevant files from 
-Sam English & Spencer Gessner's exploration 
+Sam English & Spencer Gessner's exploration \
 of automating the GreeNe laser alignment process.
 
 ##################################################
